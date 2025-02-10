@@ -1,0 +1,327 @@
+/* Discover junior fron */
+.body {
+    /* Overview */
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+
+    background: #F0F4F4;
+
+}
+
+
+.frame465 {
+    /* Frame 465 */
+  
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+
+    position: absolute;
+    width: 623px;
+    height: 530px;
+    left: 1213px;
+    top: calc(50% - 530px/2 + 1px);
+
+ 
+
+
+}
+.frame462 {
+    /* Frame 462 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 57px;
+
+    width: 623px;
+    height: 200px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+.frame460{
+    /* Frame 460 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 510px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.majestiicone{
+    /* majesticons:atom-2 */
+
+width: 56px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.mingcute{
+    /* mingcute:layout-8-fill */
+
+width: 56px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.designs-text{
+        /* Connect with the tho */
+
+width: 510px;
+height: 128px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 160%;
+/* or 32px */
+
+color: #1C2022;
+
+opacity: 0.8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+    }
+
+    .designs-def{
+        /* Discover junior fron */
+
+width: 207px;
+height: 32px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 100%;
+/* identical to box height, or 32px */
+
+color: #1C2022;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+    }
+
+
+.container1 {
+    /* Rectangle 28 */
+    border: solid 1px black;
+    box-sizing: border-box;
+    display: flex;
+
+    /* align-items: ; */
+    justify-content: right;
+    position: absolute;
+    width: 1573px;
+    height: 1260px;
+
+    /* width: 100vw; 
+height: 100vh;
+*/
+    left: -463px;
+    top: 126px;
+    /* left: -30vw;
+top: 10vh; */
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 80px;
+
+}
+
+.text-title {
+    width: 780px;
+    height: 72px;
+
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 100%;
+    cursor: pointer;
+
+    /* identical to box height, or 72px */
+
+    color: #3E54A3;
+
+
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Frame446 {
+    /* Frame 446 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    /* position: absolute;
+ */
+    position: fixed;
+    width: 780px;
+    height: 366px;
+    left: 164px;
+    top: calc(50% - 366px/2 - 138px);
+
+
+}
+
+
+
+
+.text2 {
+    /* Connect with the tho */
+    width: 780px;
+    height: 114px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    /* or 38px */
+
+    color: #1C2022;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+
+
+.majuscule {
+    /* Connect with the tho */
+
+    width: 780px;
+    height: 114px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    /* or 38px */
+
+    color: #1C2022;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+.icone {
+    /* Group 357 */
+
+    position: absolute;
+    width: 144px;
+    height: 144px;
+    left: calc(50% - 144px/2 - 724px);
+    top: 54px;
+
+
+}
+
+
+.laptop-image {
+    /* Device - Macbook Pro */
+
+    position: absolute;
+    width: 956px;
+    height: 560.51px;
+    /* left: 72px; */
+    left: 572px;
+    top: 617.24px;
+
+
+}
+
+
+
+.groupe357 {
+    /* Group 357 */
+    z-index: 1;
+    position: absolute;
+    width: 144px;
+    height: 144px;
+    left: calc(50% - 144px/2 - 724px);
+    top: 54px;
+
+
+}
+
+.rectangle29 {
+    /* Rectangle 29 */
+
+    width: 100px;
+    height: 100px;
+
+    background: #D9D9D9;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
